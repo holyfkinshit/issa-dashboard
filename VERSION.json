@@ -1,0 +1,7 @@
+{
+  "project": "ISSA",
+  "name": "Intelligent Signal Scoring & Analytics",
+  "version": "0.2.0",
+  "live_trading_enabled": false,
+  "sync_protocol": 2
+}

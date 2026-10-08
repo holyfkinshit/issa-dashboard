@@ -1,5 +1,8 @@
 {
   "generated_ts": null,
+  "mode": "research",
+  "schema_version": 2,
+  "collector_status": "not_configured",
   "summary": {},
-  "mode": "research"
+  "notice": "Awaiting first verified device upload; no live market results have been published."
 }
